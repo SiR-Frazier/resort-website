@@ -6,6 +6,10 @@ h1 {
   background-color: #00aaFF;
 }
 
+h3 {
+  text-align: center;
+}
+
 img {
   width: 256px;
   height: 128px;
