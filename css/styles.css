@@ -5,3 +5,8 @@ h1 {
   color: blue;
   background-color: #00aaFF;
 }
+
+img {
+  width: 256px;
+  height: 128px;
+}
