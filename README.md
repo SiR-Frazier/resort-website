@@ -12,8 +12,6 @@ _Site offers an overview of the attractions at the fictional resort. We used htm
 
 * _Open resortWebsite folder and click index.html to open resort site in the browser.
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
-
 ## Known Bugs
 
 _{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
